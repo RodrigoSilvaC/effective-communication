@@ -14,3 +14,8 @@ This is a good example of sharing [my code](https://gist.github.com/RodrigoSilva
 ## Colab Example 
 
 This is the [notebook](https://github.com/RodrigoSilvaC/effective-communication/blob/main/technical_discussion.ipynb)
+
+## Image
+
+![image](https://github.com/RodrigoSilvaC/effective-communication/assets/13721682/2ce9022f-789f-44ec-818d-8f854338cb3b)
+
