@@ -10,3 +10,7 @@ This is a demo of how to share ideas
 ### Gist
 
 This is a good example of sharing [my code](https://gist.github.com/RodrigoSilvaC/7d87d11a7b6b296b45e6070408a6a34c)
+
+## Colab Example 
+
+This is the [notebook](https://github.com/RodrigoSilvaC/effective-communication/blob/main/technical_discussion.ipynb)
